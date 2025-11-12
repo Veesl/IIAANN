@@ -4,7 +4,7 @@
   <h1>hi,I'm a student who loves coding </h1>
   
   <p>
-    溫溼度檢測結合database及驅動馬達閉合小型全自動專案
+    溫溼度檢測結合Database與驅動馬達全自動閉合循環專案
   </p>
 </div>
 
