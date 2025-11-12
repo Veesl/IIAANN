@@ -4,7 +4,7 @@
   <h1>THE FIRST PROJECT</h1>
   
   <p>
-    溫溼度檢測結合Database與驅動馬達全自動閉合循環專案
+    溫溼度檢測結合Database與驅動馬達全自動閉合循環系統
   </p>
 </div>
 
