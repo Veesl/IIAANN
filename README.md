@@ -19,10 +19,9 @@
 ### **Skills**
 | Category | Tech |
 |----------|------|
-| **Hardware** | ESP32, Arduino, SG90 |
-| **Backend** | Python, PowerShell |
+| **Hardware** | ESP32, DHT22, SG90 |
+| **Backend** | Arduino IDE, PowerShell |
 | **Database** | InfluxDB |
-| **Frontend** | HTML|
 
 
 
